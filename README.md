@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Alex H.
 
-<!--
-**Alex-Hel/Alex-Hel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an incoming Computer Science student at UT Austin interested in software engineering, machine learning, systems, and game theory.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building Python projects around game logic
+- Practicing algorithms and data structures for Summer 2027 internship recruiting
+- Studying Machine Learning, Data Structures, Discrete Math, and Multivariable Calculus
+
+## Featured Projects
+
+- [Statistical Based Poker Bot](private currently): Python probabalistic position evaluation with engineered hole card distributions.
+- [Connect 4 Bot](private currently): Java decision tree based logic with Transposition Tables and Handcrafted Leaf Evaluation.
+
+## Tech
+
+Python, Java, NumPy, pandas, scikit-learn, Keras
